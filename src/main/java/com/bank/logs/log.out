@@ -1,0 +1,95 @@
+2021-12-14 13:12:108 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 13:12:882 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 13:12:918 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 13:12:586 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 13:12:380 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 15:12:752 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 15:12:477 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 16:12:167 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 16:12:667 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 16:12:754 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 16:12:855 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 16:12:107 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (fb39534a26753d0b7f0151dd5d7f7955)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 16:12:546 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (fb39534a26753d0b7f0151dd5d7f7955)] -> xpath: //button[@class='btn logout']]
+2021-12-14 17:12:748 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 17:12:852 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 17:12:323 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (6eda8786095221442d7165f43b42dd19)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 17:12:991 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (6eda8786095221442d7165f43b42dd19)] -> xpath: //button[@class='btn logout']]
+2021-12-14 17:12:788 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 17:12:526 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (b8ec9bdf51ef39f7832fffbf3547c50c)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 17:12:56 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (b8ec9bdf51ef39f7832fffbf3547c50c)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 17:12:562 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (b8ec9bdf51ef39f7832fffbf3547c50c)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 17:12:500 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (b8ec9bdf51ef39f7832fffbf3547c50c)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 17:12:211 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 17:12:793 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 17:12:117 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (925a0e9f0116deaf60229f08f8c0730f)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 17:12:692 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (925a0e9f0116deaf60229f08f8c0730f)] -> xpath: //button[@class='btn logout']]
+2021-12-14 17:12:370 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 17:12:790 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (9fd129c180680cf4e43637175c366071)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 17:12:242 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (9fd129c180680cf4e43637175c366071)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 17:12:733 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (9fd129c180680cf4e43637175c366071)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 17:12:914 INFO  AccountPage :73 -  Clicking on deposite button [[ChromeDriver: chrome on WINDOWS (9fd129c180680cf4e43637175c366071)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 17:12:104 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (9fd129c180680cf4e43637175c366071)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 19:12:06 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 19:12:955 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 19:12:400 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (ca21e881ab13cb64dc762a2949b8f83a)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 19:12:175 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (ca21e881ab13cb64dc762a2949b8f83a)] -> xpath: //button[@class='btn logout']]
+2021-12-14 19:12:398 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 19:12:586 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (c89be3b54bfc20bd1b0f15c307a66edd)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 19:12:85 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (c89be3b54bfc20bd1b0f15c307a66edd)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 19:12:570 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (c89be3b54bfc20bd1b0f15c307a66edd)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 19:12:681 INFO  AccountPage :73 -  Clicking on deposite button [[ChromeDriver: chrome on WINDOWS (c89be3b54bfc20bd1b0f15c307a66edd)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 19:12:781 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (c89be3b54bfc20bd1b0f15c307a66edd)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 21:12:777 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 21:12:122 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 21:12:992 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (1eae35ac87315cf4e2dd5f4baa365014)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 21:12:470 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (1eae35ac87315cf4e2dd5f4baa365014)] -> xpath: //button[@class='btn logout']]
+2021-12-14 21:12:927 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 21:12:882 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (55bd689eef24e778176693d63c99b9b3)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 21:12:345 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (55bd689eef24e778176693d63c99b9b3)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 21:12:798 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (55bd689eef24e778176693d63c99b9b3)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 21:12:963 INFO  AccountPage :73 -  Clicking on deposite button [[ChromeDriver: chrome on WINDOWS (55bd689eef24e778176693d63c99b9b3)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 21:12:114 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (55bd689eef24e778176693d63c99b9b3)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 21:12:709 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 21:12:831 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (d0ebbfe0e7eb2a53c3c1bbd6390585b0)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 21:12:718 INFO  AccountPage :91 -  Enter £50 in withdrawal field50 to withdraw money[[ChromeDriver: chrome on WINDOWS (d0ebbfe0e7eb2a53c3c1bbd6390585b0)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:878 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:527 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:482 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:986 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (54c336b993e1f3942c967e43d2e4049a)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:450 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (54c336b993e1f3942c967e43d2e4049a)] -> xpath: //button[@class='btn logout']]
+2021-12-14 22:12:251 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:222 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (f7e8088efe490d2eae79b9f29ddd09aa)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:230 INFO  AccountPage :91 -  Enter £50 in withdrawal field50 to withdraw money[[ChromeDriver: chrome on WINDOWS (f7e8088efe490d2eae79b9f29ddd09aa)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:910 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:410 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (cdb50208223b47a0c52f9699a70ca1c2)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:899 INFO  AccountPage :51 -  Click on logout button [[ChromeDriver: chrome on WINDOWS (cdb50208223b47a0c52f9699a70ca1c2)] -> xpath: //button[@class='btn logout']]
+2021-12-14 22:12:798 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:109 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (b159949fc6a55614a84e634cdfecb32e)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:541 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (b159949fc6a55614a84e634cdfecb32e)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 22:12:923 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (b159949fc6a55614a84e634cdfecb32e)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:137 INFO  AccountPage :73 -  Clicking on deposite button [[ChromeDriver: chrome on WINDOWS (b159949fc6a55614a84e634cdfecb32e)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:326 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (b159949fc6a55614a84e634cdfecb32e)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 22:12:833 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:943 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (3a4c42ebd12101dd8bfe7900fcd16959)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:352 INFO  AccountPage :91 -  Enter £50 in withdrawal field50 to withdraw money[[ChromeDriver: chrome on WINDOWS (3a4c42ebd12101dd8bfe7900fcd16959)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:135 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:706 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:308 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (9e4c9b1124e242551d38043b52af84c3)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:929 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (9e4c9b1124e242551d38043b52af84c3)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 22:12:394 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (9e4c9b1124e242551d38043b52af84c3)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:588 INFO  AccountPage :73 -  Clicking on deposite button [[ChromeDriver: chrome on WINDOWS (9e4c9b1124e242551d38043b52af84c3)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:756 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (9e4c9b1124e242551d38043b52af84c3)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 22:12:14 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:272 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (8900408b86a2ac96c329b56a9f5b4b65)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:382 INFO  AccountPage :91 -  Enter £50 in withdrawal field50 to withdraw money[[ChromeDriver: chrome on WINDOWS (8900408b86a2ac96c329b56a9f5b4b65)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:973 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:472 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:56 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (7d313dbbd4ccb74979fe4af613207d8d)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:500 INFO  AccountPage :58 -  Click on deposit tab [[ChromeDriver: chrome on WINDOWS (7d313dbbd4ccb74979fe4af613207d8d)] -> xpath: //button[contains(text(),'Deposit')]]
+2021-12-14 22:12:968 INFO  AccountPage :66 -  Enter £100 on deposit field [[ChromeDriver: chrome on WINDOWS (7d313dbbd4ccb74979fe4af613207d8d)] -> xpath: //input[@placeholder='amount']]
+2021-12-14 22:12:228 INFO  AccountPage :73 -  Clicking on deposite button [[ChromeDriver: chrome on WINDOWS (7d313dbbd4ccb74979fe4af613207d8d)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:379 INFO  AccountPage :79 -  Verify Deposite successful text Deposit Successful displayed on account page[[ChromeDriver: chrome on WINDOWS (7d313dbbd4ccb74979fe4af613207d8d)] -> xpath: //span[@class='error ng-binding']]
+2021-12-14 22:12:682 INFO  ManageDriver :36 - Launching chrome browser
+2021-12-14 22:12:678 INFO  CustomerLginPage :28 -  Clicking onn login button[[ChromeDriver: chrome on WINDOWS (de282825bf27d75cfc97ba596513a82a)] -> xpath: //button[@class='btn btn-default']]
+2021-12-14 22:12:416 INFO  AccountPage :91 -  Enter £50 in withdrawal field50 to withdraw money[[ChromeDriver: chrome on WINDOWS (de282825bf27d75cfc97ba596513a82a)] -> xpath: //input[@placeholder='amount']]
